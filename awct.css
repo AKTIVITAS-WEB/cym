@@ -1,0 +1,7 @@
+/* Chord Transpose */
+.ui-tooltip{padding:2px;background:#fff;border:2px solid black;position:absolute;z-index:8;max-width:300px}
+.c-variasi{font-size:15px;font-weight:bold;margin:0px;padding:0px}
+span.c,span.on{font-weight:bold;color:#0000bb;transition:opacity 0.3s ease-in-out;cursor:help}
+.vc{font-weight:bold;text-decoration:underline;background:#dddddd;padding:2px 3px;border-radius:3px}
+.transpose-keys{margin:5px 0px 10px 0px;overflow:auto;font:bold 13px verdana;text-align:center}
+.transpose-keys a{display:inline-block;width:2.25em;text-align:center;margin:3px .25em;color:#eee;background:#080808;text-decoration:none;padding:.4em 0;border:1px solid #0000ff}.transpose-keys a:hover{font-weight:bold;color:#fff;background:#0000ff}.transpose-keys a.selected{background:#0000ff;color:#ffff00;border-color:#ff0000; cursor:not-allowed}
